@@ -10,3 +10,6 @@ pwd- directory
 cd- change directory 
 	~ home
 	..going back one 
+git add .- add the file
+git commit -m "comments"
+git log- history
