@@ -14,3 +14,4 @@ git add .- add the file
 git commit -m "comments"
 git log- history
 git log --author="name"
+git diff- changes made
