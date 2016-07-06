@@ -1,0 +1,12 @@
+git commands
+ls- list
+touch- create a file
+mv- rename a file
+rm- delete a file
+git config --global user.name
+git config --global user.email
+git config --list
+pwd- directory 
+cd- change directory 
+	~ home
+	..going back one 
