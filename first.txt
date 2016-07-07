@@ -16,4 +16,6 @@ git log- history
 git log --author="name"
 git diff- changes made
 git commit -am "comments" (changes directly to repository)
-git checkout -- file.txt (undo changes)
+git checkout -- file.txt(undo changes)
+git checkout number -- file.txt (getting old versions)
+
