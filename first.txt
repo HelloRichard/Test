@@ -18,4 +18,6 @@ git diff- changes made
 git commit -am "comments" (changes directly to repository)
 git checkout -- file.txt(undo changes)
 git checkout number -- file.txt (getting old versions)
-
+git remote add "nickname" github website
+git remote: to check the github websites
+git push -u "nickname": to update
